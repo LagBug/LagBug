@@ -1,4 +1,4 @@
-### About me
+### 📖 About me
 Passionate about software development and technology, I thrive on coding and creating innovative solutions. As a visionary thinker and lifelong learner with an entrepreneurial mindset, I excel at turning ideas into impactful applications. Let's connect!
 
 ### 💻 Tech Stack:
